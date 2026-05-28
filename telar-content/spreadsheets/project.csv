@@ -1,5 +1,7 @@
 order,story_id,title,subtitle,byline,private,show_sections
 orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
-0,blank_template,Romantic Love,Moments of Emotional Intimacy,,,yes
-1,plantilla_en_blanco,COMMUNITY CARE,Creating Belonging Through Community,,,yes
-2,friendship-emotional-support-ydaj,FRIENDSHIP & EMOTIONAL SUPPORT,Support Through Everyday Conversation,,,yes
+0,introduction-utor,Introduction,,,,
+1,blank_template,Romantic Love,Moments of Emotional Intimacy,,,yes
+2,plantilla_en_blanco,COMMUNITY CARE,Creating Belonging Through Community,,,yes
+3,friendship-emotional-support-ydaj,Community care and Belongings,,,,yes
+4,conclusion-w2qz,Conclusion,,,,
